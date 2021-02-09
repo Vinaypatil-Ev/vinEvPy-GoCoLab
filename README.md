@@ -1,2 +1,2 @@
 # vinEvPy-GoCoLab
-collection of practice colab
+collection of python notebooks
